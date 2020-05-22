@@ -1,0 +1,61 @@
+@charset "ISO-8859-1";
+th,tfoot{
+  background-color: #22babf;
+  color: white;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+p {
+  text-align: center;	
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 60px;
+  background-color: #22babf;
+  color: white;
+}
+
+a {
+  margin-right: 5px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: black;
+  color: white;
+}
+
+a:hover {
+  background-color: #22babf;
+  color: black;
+}
+
+.previous {
+  background-color: clack;
+  color: white;
+}
+
+.next {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+body {
+ background-image: url("background.png");
+ background-color: #cccccc;
+}
