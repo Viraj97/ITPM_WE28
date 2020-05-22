@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CodeComplexityMeasure_WE28</name>
+	<comment></comment>
+	<projects>
+		<project>jstl-1.2</project>
+		<project>commons-io-2.6-javadoc</project>
+		<project>commons-io-2.6-tests</project>
+		<project>kryo-4.0.0</project>
+		<project>commons-io-2.6-test-sources</project>
+		<project>commons-io-2.6</project>
+		<project>arq-fix</project>
+		<project>commons-fileupload-1.4</project>
+		<project>objenesis-2.2</project>
+		<project>minlog-1.3.0</project>
+		<project>asm-5.0.4</project>
+		<project>commons-io-2.6-sources</project>
+		<project>reflectasm-1.11.3</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+</projectDescription>

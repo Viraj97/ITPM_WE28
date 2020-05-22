@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CodeComplexityMeasure_WE28">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes/" source-path="/ImportedClasses"/>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.6-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.6-javadoc/commons-io-2.6-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.6-tests.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.6-tests/commons-io-2.6-tests">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="kryo-4.0.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/kryo-4.0.0/kryo-4.0.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.6-test-sources.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.6-test-sources/commons-io-2.6-test-sources">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.6/commons-io-2.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="arq-fix.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/arq-fix/arq-fix">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-fileupload-1.4/commons-fileupload-1.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="objenesis-2.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/objenesis-2.2/objenesis-2.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="minlog-1.3.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/minlog-1.3.0/minlog-1.3.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="asm-5.0.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/asm-5.0.4/asm-5.0.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-2.6-sources.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-2.6-sources/commons-io-2.6-sources">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="reflectasm-1.11.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/reflectasm-1.11.3/reflectasm-1.11.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="java-output-path" value="/CodeComplexityMeasure_WE28/build/classes"/>
+        <property name="context-root" value="CodeComplexityMeasure_WE28"/>
+    </wb-module>
+</project-modules>
